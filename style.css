@@ -1151,6 +1151,9 @@ footer {
   .putt {
     width: 50px;
   }
+  .line{
+    width:100%;
+  }
 }
 @media only screen and (max-width: 460px) {
   .customers_texts {
@@ -1239,6 +1242,12 @@ footer {
   }
   .putt {
     width: 40px;
+  }
+  .card_icons{
+    justify-content: flex-start;
+  }
+  .div{
+    margin-left: 20px;
   }
 }
 @media only screen and (max-width: 408px) {
